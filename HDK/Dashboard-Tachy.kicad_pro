@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Renders/Dashboard-Tachy.step",
+      "step": "../Renders/Dashboard-Tachy.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
